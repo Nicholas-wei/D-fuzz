@@ -1,0 +1,165 @@
+[Time 1] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.995
+perf_score: 824.626, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 10.995
+
+[Time 208] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.354
+perf_score: 99.914, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.500
+
+[Time 1112] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 36.509, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.325
+
+[Time 1115] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 36.505, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1117] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 36.503, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1119] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 48.668, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1125] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 36.495, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1127] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 36.493, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1129] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 36.491, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1131] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.004
+perf_score: 48.652, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1135] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.003
+perf_score: 48.646, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1170] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.003
+perf_score: 48.605, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1191] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.003
+perf_score: 48.583, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1226] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.002
+perf_score: 48.552, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.324
+
+[Time 1263] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.002
+perf_score: 32.349, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 1421] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.001
+perf_score: 32.300, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 1579] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.415, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 1736] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.400, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 1895] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 32.262, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2047] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.390, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2081] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.389, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2243] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.388, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2278] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.388, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2292] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.388, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2450] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.387, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2487] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.387, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2523] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.387, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2551] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.387, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2576] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.387, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2599] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 32.258, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2757] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 32.258, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 2919] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 32.258, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
+[Time 3080] q->distance1: 0.000000, max_distance1: 0.000000 min_distance1: 10000000000.000000, q->distance2: -1.000000, max_distance2: 0.000000, min_distance2: 10000000000.000000
+cur_data_dist: 2147483647, max_data_dist: 2147483647, min_data_dist: 2147483647
+cur_distance1: 0.000, cur_distance2: 18446744073709551616.000, T: 0.000
+perf_score: 48.387, power_factor_1: 1.000, power_factor_2: 1.000, data_power_factor: 0.323
+
